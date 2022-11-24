@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\SCUT\毫米波实验室\转接板\pcb\最终版\ch438_db9_microusb_typec版\转接板.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=转接板-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=转接板-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,15 @@
+Added Component: Designator=U3(SOT-89_L4.5-W2.5-P1.50-LS4.2-BR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "CJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "CJA1117B-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C107222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "CJA1117B-ADJ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Added Pin To Net: NetName=5V Pin=U3-3
+Added Member To Class: ClassName=ch438-MCU Member=Component U3 CJA1117B-3v3

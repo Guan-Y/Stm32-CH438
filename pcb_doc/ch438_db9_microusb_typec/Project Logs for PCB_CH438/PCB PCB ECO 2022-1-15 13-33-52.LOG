@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=OSC_OUT Pin=X1-1
+Removed Pin From Net: NetName=OSC_IN Pin=X1-2
+Removed Member From Class: ClassName=ch438-MCU Member=X1
+Change Component Comment : Designator=C6 Old Comment=22pF New Comment=18pF
+Change Component Comment : Designator=C7 Old Comment=22pF New Comment=18pF
+Change Component Designator: OldDesignator=R1 NewDesignator=1
+Added Component: Designator=C88(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_16531.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C15849"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(SMD-3225_4P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_9522.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-3225_4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C9002"; VariantName = "[No Variations]"
+Added Component: Designator=Y3(SMD-3225_4P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_9522.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-3225_4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C9002"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C88-1
+Added Pin To Net: NetName=3V3 Pin=C88-2
+Added Pin To Net: NetName=OSC_IN Pin=Y2-1
+Added Pin To Net: NetName=OSC_OUT Pin=Y2-3
+Added Pin To Net: NetName=XI Pin=Y3-1
+Added Pin To Net: NetName=XO Pin=Y3-3
+Added Member To Class: ClassName=ch438-MCU Member=Component C11 Cap Semi
+Added Member To Class: ClassName=去耦电容&接口 Member=Component C88 10uF
+Added Member To Class: ClassName=ch438-MCU Member=Component R1 10KΩ
+Added Member To Class: ClassName=ch438-MCU Member=Component Y2 8MHz
+Added Member To Class: ClassName=ch438-MCU Member=Component Y3 22.1184MHz

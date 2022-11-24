@@ -1,0 +1,22 @@
+Added Component: Designator=CN1(USB-C-TH_TYPE-C-31-M-18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Korean Hroparts Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TYPE-C-31-M-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C530609"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TYPE-C-31-M-18"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CN1-A1
+Added Pin To Net: NetName=5V Pin=CN1-A4
+Added Pin To Net: NetName=CH340 D+ Pin=CN1-A6
+Added Pin To Net: NetName=CH340 D- Pin=CN1-A7
+Added Pin To Net: NetName=5V Pin=CN1-A9
+Added Pin To Net: NetName=GND Pin=CN1-A12
+Added Pin To Net: NetName=GND Pin=CN1-B1
+Added Pin To Net: NetName=5V Pin=CN1-B4
+Added Pin To Net: NetName=CH340 D+ Pin=CN1-B6
+Added Pin To Net: NetName=CH340 D- Pin=CN1-B7
+Added Pin To Net: NetName=5V Pin=CN1-B9
+Added Pin To Net: NetName=GND Pin=CN1-B12
+Added Member To Class: ClassName=去耦电容&接口 Member=Component CN1 TYPE_C-14P

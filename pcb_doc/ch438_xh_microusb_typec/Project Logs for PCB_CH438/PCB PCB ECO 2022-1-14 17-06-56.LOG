@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=RESET Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Member From Class: ClassName=ch438-MCU Member=S1
+Change Component Comment : Designator=R1 Old Comment=10KΩ (1002) ±1% New Comment=10KΩ 
+Added Component: Designator=R9(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26547.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25804"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26547.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25804"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW-SMD_4P-L6.0-W6.0-P4.50-LS9.2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "XKB Connectivity(中国星坤)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TS-1102SD-C-C-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C2935209"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TS-1102SD-C-C-B"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BOOT0 Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=RESET Pin=SW1-3
+Change Net Name : Old Net Name=NetC5_1 New Net Name=OSC32_IN
+Change Net Name : Old Net Name=NetC6_1 New Net Name=OSC32_OUT
+Added Pin To Net: NetName=BOOT1 Pin=R10-1
+Added Pin To Net: NetName=BOOT1 Pin=U1-20
+Added Net: Name=BOOT1
+Added Member To Class: ClassName=MAX232&输出 Member=Component P4 Header 4
+Added Member To Class: ClassName=ch438-MCU Member=Component R9 10KΩ 
+Added Member To Class: ClassName=ch438-MCU Member=Component R10 10KΩ 
+Added Member To Class: ClassName=ch438-MCU Member=Component SW1 TS-1102SD-C-C-B

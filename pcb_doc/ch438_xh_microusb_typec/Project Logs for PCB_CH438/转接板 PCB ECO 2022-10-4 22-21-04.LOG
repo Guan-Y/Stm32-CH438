@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=TXD4_232 Pin=J6-2
+Removed Pin From Net: NetName=RXD4_232 Pin=J6-3
+Removed Pin From Net: NetName=TXD5_232 Pin=J7-2
+Removed Pin From Net: NetName=RXD5_232 Pin=J7-3
+Removed Pin From Net: NetName=TXD6_232 Pin=J8-2
+Removed Pin From Net: NetName=RXD6_232 Pin=J8-3
+Removed Pin From Net: NetName=TXD7_232 Pin=J9-2
+Removed Pin From Net: NetName=RXD7_232 Pin=J9-3
+Added Component: Designator=CN?(USB-C-SMD_KH-TYPE-C-16P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Korean Hroparts Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TYPE-C-31-M-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C530609"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TYPE-C-31-M-18"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CN?-A1
+Added Pin To Net: NetName=5V Pin=CN?-A4
+Added Pin To Net: NetName=CH340 D+ Pin=CN?-A6
+Added Pin To Net: NetName=CH340 D- Pin=CN?-A7
+Added Pin To Net: NetName=5V Pin=CN?-A9
+Added Pin To Net: NetName=GND Pin=CN?-A12
+Added Pin To Net: NetName=GND Pin=CN?-B1
+Added Pin To Net: NetName=5V Pin=CN?-B4
+Added Pin To Net: NetName=CH340 D+ Pin=CN?-B6
+Added Pin To Net: NetName=CH340 D- Pin=CN?-B7
+Added Pin To Net: NetName=5V Pin=CN?-B9
+Added Pin To Net: NetName=GND Pin=CN?-B12
+Added Pin To Net: NetName=RXD4_232 Pin=J6-2
+Added Pin To Net: NetName=TXD4_232 Pin=J6-3
+Added Pin To Net: NetName=RXD5_232 Pin=J7-2
+Added Pin To Net: NetName=TXD5_232 Pin=J7-3
+Added Pin To Net: NetName=RXD6_232 Pin=J8-2
+Added Pin To Net: NetName=TXD6_232 Pin=J8-3
+Added Pin To Net: NetName=RXD7_232 Pin=J9-2
+Added Pin To Net: NetName=TXD7_232 Pin=J9-3

@@ -1,0 +1,288 @@
+Removed Pin From Net: NetName=GND Pin=COM0-1
+Removed Pin From Net: NetName=RXD0_232 Pin=COM0-2
+Removed Pin From Net: NetName=TXD0_232 Pin=COM0-3
+Removed Pin From Net: NetName=5V Pin=COM0-4
+Removed Pin From Net: NetName=GND Pin=COM1-1
+Removed Pin From Net: NetName=RXD1_232 Pin=COM1-2
+Removed Pin From Net: NetName=TXD1_232 Pin=COM1-3
+Removed Pin From Net: NetName=5V Pin=COM1-4
+Removed Pin From Net: NetName=GND Pin=COM2-1
+Removed Pin From Net: NetName=RXD2_232 Pin=COM2-2
+Removed Pin From Net: NetName=TXD2_232 Pin=COM2-3
+Removed Pin From Net: NetName=5V Pin=COM2-4
+Removed Pin From Net: NetName=GND Pin=COM3-1
+Removed Pin From Net: NetName=RXD3_232 Pin=COM3-2
+Removed Pin From Net: NetName=TXD3_232 Pin=COM3-3
+Removed Pin From Net: NetName=5V Pin=COM3-4
+Removed Pin From Net: NetName=GND Pin=COM4-1
+Removed Pin From Net: NetName=TXD4_232 Pin=COM4-2
+Removed Pin From Net: NetName=RXD4_232 Pin=COM4-3
+Removed Pin From Net: NetName=5V Pin=COM4-4
+Removed Pin From Net: NetName=GND Pin=COM5-1
+Removed Pin From Net: NetName=TXD5_232 Pin=COM5-2
+Removed Pin From Net: NetName=RXD5_232 Pin=COM5-3
+Removed Pin From Net: NetName=5V Pin=COM5-4
+Removed Pin From Net: NetName=GND Pin=COM6-1
+Removed Pin From Net: NetName=TXD6_232 Pin=COM6-2
+Removed Pin From Net: NetName=RXD6_232 Pin=COM6-3
+Removed Pin From Net: NetName=5V Pin=COM6-4
+Removed Pin From Net: NetName=GND Pin=COM7-1
+Removed Pin From Net: NetName=TXD7_232 Pin=COM7-2
+Removed Pin From Net: NetName=RXD7_232 Pin=COM7-3
+Removed Pin From Net: NetName=5V Pin=COM7-4
+Removed Pin From Net: NetName=3V3 Pin=P2-1
+Removed Pin From Net: NetName=PA13 Pin=P2-2
+Removed Pin From Net: NetName=PA14 Pin=P2-3
+Removed Pin From Net: NetName=GND Pin=P2-4
+Removed Pin From Net: NetName=XI Pin=R11-1
+Removed Pin From Net: NetName=XO Pin=R11-2
+Removed Member From Class: ClassName=ch438-MCU Member=C8T6
+Removed Member From Class: ClassName=MAX232&输出 Member=C24
+Removed Member From Class: ClassName=MAX232&输出 Member=COM0
+Removed Member From Class: ClassName=MAX232&输出 Member=COM1
+Removed Member From Class: ClassName=MAX232&输出 Member=COM2
+Removed Member From Class: ClassName=MAX232&输出 Member=COM3
+Removed Member From Class: ClassName=MAX232&输出 Member=COM4
+Removed Member From Class: ClassName=MAX232&输出 Member=COM5
+Removed Member From Class: ClassName=MAX232&输出 Member=COM6
+Removed Member From Class: ClassName=MAX232&输出 Member=COM7
+Removed Member From Class: ClassName=ch438-MCU Member=P2
+Change Component Comment : Designator=R4 Old Comment=10KΩ New Comment=0Ω
+Change Component Comment : Designator=C9 Old Comment=104 New Comment=18pF
+Change Component Comment : Designator=C10 Old Comment=104 New Comment=18pF
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C8T6 NewDesignator=C1
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C18
+Change Component Designator: OldDesignator=C18 NewDesignator=C19
+Change Component Designator: OldDesignator=C19 NewDesignator=C20
+Change Component Designator: OldDesignator=C20 NewDesignator=C21
+Change Component Designator: OldDesignator=C21 NewDesignator=C24
+Change Component Designator: OldDesignator=C22 NewDesignator=C25
+Change Component Designator: OldDesignator=C23 NewDesignator=C22
+Change Component Designator: OldDesignator=C24 NewDesignator=C23
+Change Component Designator: OldDesignator=C25 NewDesignator=C26
+Change Component Designator: OldDesignator=C26 NewDesignator=C27
+Change Component Designator: OldDesignator=C27 NewDesignator=C28
+Change Component Designator: OldDesignator=C28 NewDesignator=C29
+Change Component Designator: OldDesignator=C29 NewDesignator=C30
+Change Component Designator: OldDesignator=C30 NewDesignator=C31
+Change Component Designator: OldDesignator=C31 NewDesignator=C34
+Change Component Designator: OldDesignator=C32 NewDesignator=C35
+Change Component Designator: OldDesignator=C34 NewDesignator=C32
+Change Component Designator: OldDesignator=C35 NewDesignator=C36
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Change Component Designator: OldDesignator=C37 NewDesignator=C38
+Change Component Designator: OldDesignator=C38 NewDesignator=C39
+Change Component Designator: OldDesignator=C39 NewDesignator=C40
+Change Component Designator: OldDesignator=C40 NewDesignator=C41
+Change Component Designator: OldDesignator=C41 NewDesignator=C44
+Change Component Designator: OldDesignator=C42 NewDesignator=C45
+Change Component Designator: OldDesignator=C43 NewDesignator=C42
+Change Component Designator: OldDesignator=C44 NewDesignator=C43
+Change Component Designator: OldDesignator=C45 NewDesignator=C46
+Change Component Designator: OldDesignator=C46 NewDesignator=C47
+Change Component Designator: OldDesignator=C47 NewDesignator=C48
+Change Component Designator: OldDesignator=C48 NewDesignator=C49
+Change Component Designator: OldDesignator=C49 NewDesignator=C50
+Change Component Designator: OldDesignator=C50 NewDesignator=C51
+Change Component Designator: OldDesignator=C51 NewDesignator=C54
+Change Component Designator: OldDesignator=C52 NewDesignator=C55
+Change Component Designator: OldDesignator=C53 NewDesignator=C52
+Change Component Designator: OldDesignator=C54 NewDesignator=C53
+Change Component Designator: OldDesignator=C55 NewDesignator=C56
+Change Component Designator: OldDesignator=C56 NewDesignator=C57
+Change Component Designator: OldDesignator=C57 NewDesignator=C58
+Change Component Designator: OldDesignator=C58 NewDesignator=C59
+Change Component Designator: OldDesignator=C59 NewDesignator=C60
+Change Component Designator: OldDesignator=C60 NewDesignator=C61
+Change Component Designator: OldDesignator=C69 NewDesignator=C62
+Change Component Designator: OldDesignator=C70 NewDesignator=C63
+Change Component Designator: OldDesignator=C71 NewDesignator=C64
+Change Component Designator: OldDesignator=C72 NewDesignator=C65
+Change Component Designator: OldDesignator=C73 NewDesignator=C66
+Change Component Designator: OldDesignator=C74 NewDesignator=C67
+Change Component Designator: OldDesignator=C75 NewDesignator=C68
+Change Component Designator: OldDesignator=C76 NewDesignator=C69
+Change Component Designator: OldDesignator=C77 NewDesignator=C70
+Change Component Designator: OldDesignator=C78 NewDesignator=C71
+Change Component Designator: OldDesignator=C79 NewDesignator=C72
+Change Component Designator: OldDesignator=C80 NewDesignator=C73
+Change Component Designator: OldDesignator=C81 NewDesignator=C74
+Change Component Designator: OldDesignator=C82 NewDesignator=C75
+Change Component Designator: OldDesignator=C83 NewDesignator=C76
+Change Component Designator: OldDesignator=C84 NewDesignator=C77
+Change Component Designator: OldDesignator=C85 NewDesignator=C78
+Change Component Designator: OldDesignator=C86 NewDesignator=C79
+Change Component Designator: OldDesignator=C87 NewDesignator=C80
+Change Component Designator: OldDesignator=C88 NewDesignator=C81
+Change Component Designator: OldDesignator=CH340 NewDesignator=CH2
+Change Component Designator: OldDesignator=CH438 NewDesignator=CH1
+Change Component Designator: OldDesignator=P4 NewDesignator=P2
+Change Component Designator: OldDesignator=P5 NewDesignator=P3
+Change Component Designator: OldDesignator=P6 NewDesignator=P4
+Change Component Designator: OldDesignator=P7 NewDesignator=P5
+Change Component Designator: OldDesignator=P8 NewDesignator=P6
+Change Component Designator: OldDesignator=P9 NewDesignator=P7
+Change Component Designator: OldDesignator=P10 NewDesignator=P8
+Change Component Designator: OldDesignator=P11 NewDesignator=P9
+Change Component Designator: OldDesignator=PWR NewDesignator=PWR1
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R_PWR NewDesignator=R_PWR1
+Change Component Designator: OldDesignator=RESET NewDesignator=RESET1
+Change Component Designator: OldDesignator=U5 NewDesignator=U1
+Change Component Designator: OldDesignator=U6 NewDesignator=U2
+Change Component Designator: OldDesignator=U7 NewDesignator=U3
+Change Component Designator: OldDesignator=U8 NewDesignator=U4
+Change Component Designator: OldDesignator=U9 NewDesignator=U5
+Change Component Designator: OldDesignator=U10 NewDesignator=U6
+Change Component Designator: OldDesignator=U11 NewDesignator=U7
+Change Component Designator: OldDesignator=U12 NewDesignator=U8
+Change Component Designator: OldDesignator=Y1 NewDesignator=Y2
+Change Component Designator: OldDesignator=Y2 NewDesignator=Y1
+Added Component: Designator=J1(XH_4P直插弯针)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(XH_4P直插弯针)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(XH_4P直插弯针)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(XH_4P直插弯针)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(XH_4P直插弯针)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J6(XH_4P直插弯针)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(XH_4P直插弯针)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J8(XH_4P直插弯针)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J9(XH_4P直插弯针)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_26547.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25804"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J1-1
+Added Pin To Net: NetName=PA13 Pin=J1-2
+Added Pin To Net: NetName=PA14 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=RXD0_232 Pin=J2-2
+Added Pin To Net: NetName=TXD0_232 Pin=J2-3
+Added Pin To Net: NetName=5V Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=RXD1_232 Pin=J3-2
+Added Pin To Net: NetName=TXD1_232 Pin=J3-3
+Added Pin To Net: NetName=5V Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=RXD2_232 Pin=J4-2
+Added Pin To Net: NetName=TXD2_232 Pin=J4-3
+Added Pin To Net: NetName=5V Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=RXD3_232 Pin=J5-2
+Added Pin To Net: NetName=TXD3_232 Pin=J5-3
+Added Pin To Net: NetName=5V Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=TXD4_232 Pin=J6-2
+Added Pin To Net: NetName=RXD4_232 Pin=J6-3
+Added Pin To Net: NetName=5V Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=TXD5_232 Pin=J7-2
+Added Pin To Net: NetName=RXD5_232 Pin=J7-3
+Added Pin To Net: NetName=5V Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=TXD6_232 Pin=J8-2
+Added Pin To Net: NetName=RXD6_232 Pin=J8-3
+Added Pin To Net: NetName=5V Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=TXD7_232 Pin=J9-2
+Added Pin To Net: NetName=RXD7_232 Pin=J9-3
+Added Pin To Net: NetName=5V Pin=J9-4
+Added Pin To Net: NetName=INT Pin=R5-1
+Added Pin To Net: NetName=5V Pin=R5-2
+Change Net Name : Old Net Name=NetC8T6_9 New Net Name=NetC1_9
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC23_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC25_1 New Net Name=NetC26_1
+Change Net Name : Old Net Name=NetC25_2 New Net Name=NetC26_2
+Change Net Name : Old Net Name=NetC26_1 New Net Name=NetC27_1
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetC27_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetC28_2 New Net Name=NetC29_2
+Change Net Name : Old Net Name=NetC29_1 New Net Name=NetC30_1
+Change Net Name : Old Net Name=NetC29_2 New Net Name=NetC30_2
+Change Net Name : Old Net Name=NetC30_1 New Net Name=NetC31_1
+Change Net Name : Old Net Name=NetC30_2 New Net Name=NetC31_2
+Change Net Name : Old Net Name=NetC34_2 New Net Name=NetC32_2
+Change Net Name : Old Net Name=NetC35_1 New Net Name=NetC36_1
+Change Net Name : Old Net Name=NetC35_2 New Net Name=NetC36_2
+Change Net Name : Old Net Name=NetC36_1 New Net Name=NetC37_1
+Change Net Name : Old Net Name=NetC36_2 New Net Name=NetC37_2
+Change Net Name : Old Net Name=NetC37_2 New Net Name=NetC38_2
+Change Net Name : Old Net Name=NetC38_2 New Net Name=NetC39_2
+Change Net Name : Old Net Name=NetC39_1 New Net Name=NetC40_1
+Change Net Name : Old Net Name=NetC39_2 New Net Name=NetC40_2
+Change Net Name : Old Net Name=NetC40_1 New Net Name=NetC41_1
+Change Net Name : Old Net Name=NetC40_2 New Net Name=NetC41_2
+Change Net Name : Old Net Name=NetC43_2 New Net Name=NetC42_2
+Change Net Name : Old Net Name=NetC44_2 New Net Name=NetC43_2
+Change Net Name : Old Net Name=NetC45_1 New Net Name=NetC46_1
+Change Net Name : Old Net Name=NetC45_2 New Net Name=NetC46_2
+Change Net Name : Old Net Name=NetC46_1 New Net Name=NetC47_1
+Change Net Name : Old Net Name=NetC46_2 New Net Name=NetC47_2
+Change Net Name : Old Net Name=NetC47_2 New Net Name=NetC48_2
+Change Net Name : Old Net Name=NetC48_2 New Net Name=NetC49_2
+Change Net Name : Old Net Name=NetC49_1 New Net Name=NetC50_1
+Change Net Name : Old Net Name=NetC49_2 New Net Name=NetC50_2
+Change Net Name : Old Net Name=NetC50_1 New Net Name=NetC51_1
+Change Net Name : Old Net Name=NetC50_2 New Net Name=NetC51_2
+Change Net Name : Old Net Name=NetC53_2 New Net Name=NetC52_2
+Change Net Name : Old Net Name=NetC54_2 New Net Name=NetC53_2
+Change Net Name : Old Net Name=NetC55_1 New Net Name=NetC56_1
+Change Net Name : Old Net Name=NetC55_2 New Net Name=NetC56_2
+Change Net Name : Old Net Name=NetC56_1 New Net Name=NetC57_1
+Change Net Name : Old Net Name=NetC56_2 New Net Name=NetC57_2
+Change Net Name : Old Net Name=NetC57_2 New Net Name=NetC58_2
+Change Net Name : Old Net Name=NetC58_2 New Net Name=NetC59_2
+Change Net Name : Old Net Name=NetC59_1 New Net Name=NetC60_1
+Change Net Name : Old Net Name=NetC59_2 New Net Name=NetC60_2
+Change Net Name : Old Net Name=NetC60_1 New Net Name=NetC61_1
+Change Net Name : Old Net Name=NetC60_2 New Net Name=NetC61_2
+Change Net Name : Old Net Name=NetCH340_13 New Net Name=NetCH2_13
+Change Net Name : Old Net Name=NetCH340_14 New Net Name=NetCH2_14
+Change Net Name : Old Net Name=NetPWR_A New Net Name=NetPWR1_A
+Added Member To Class: ClassName=ch438-MCU Member=Component C21 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C61 104
+Added Member To Class: ClassName=ch438-MCU Member=Component J1 XH_4P
+Added Member To Class: ClassName=MAX232&输出 Member=Component J2 XH_4P
+Added Member To Class: ClassName=MAX232&输出 Member=Component J3 XH_4P
+Added Member To Class: ClassName=MAX232&输出 Member=Component J4 XH_4P
+Added Member To Class: ClassName=MAX232&输出 Member=Component J5 XH_4P
+Added Member To Class: ClassName=MAX232&输出 Member=Component J6 XH_4P
+Added Member To Class: ClassName=MAX232&输出 Member=Component J7 XH_4P
+Added Member To Class: ClassName=MAX232&输出 Member=Component J8 XH_4P
+Added Member To Class: ClassName=MAX232&输出 Member=Component J9 XH_4P

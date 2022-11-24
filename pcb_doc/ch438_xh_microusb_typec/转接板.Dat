@@ -1,0 +1,31 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~80|Field=Description~String~Description~80|Field=Designator~String~Designator~80|Field=Footprint~String~Footprint~80|Field=LibRef~String~LibRef~80|Field=Quantity~Integer~Quantity~80|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_CH438.PrjPCB|ReportField=ProjectFullPath~E:\SCUT\毫米波实验室\转接板\pcb\最终版\ch438_xh_microusb版\PCB_CH438.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [转接板.PcbDoc]|ReportField=ReportTime~11:45:14|ReportField=ReportDate~2022/10/6|ReportField=ReportDateTime~2022/10/6 11:45:14|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~132|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=DataSourceFileName~转接板.PcbDoc|ReportField=DataSourceFullPath~E:\SCUT\毫米波实验室\转接板\pcb\最终版\ch438_xh_microusb版\转接板.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|CJA1117B-3v3||3V3|SOT-89_L4.5-W2.5-P1.50-LS4.2-BR|CJA1117B-ADJ|1
+2|STM32F103C8T6|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 48-pin LQFP, Industrial Temperature|C1|LQFP48_N|STM32F103C8T6|1
+3|104|贴片电容|C2, C3, C4, C9, C12, C14, C16, C18, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55, C56, C57, C58, C59, C60, C61, C78, C79, C80|0603_C|0603 100nF (104) 10% 50V, 0603 100pF (101) 5% 50V, 0603 1uF (105) 10% 50V|53
+4|10pF|贴片电容|C5, C6|0603_C|0603 10pF (100) 5% 50V|2
+5|18pF|贴片电容|C7, C8, C10, C11|0603_C|0603 22pF (220) 5% 50V, 0603 100nF (104) 10% 50V|4
+6|10uF|贴片电容|C13, C17, C81|0603_C|0603 10uF (106) 10% 10V, 0603 1uF (105) 10% 50V|3
+7|22uF|贴片电容|C15, C19|0603_C|0603 22uF (226) 20% 6.3V|2
+8|1uF|贴片电容|C62, C63, C64, C65, C66, C67, C68, C69, C70, C71, C72, C73, C74, C75, C76, C77|0603_C|0603 1uF (105) 10% 50V|16
+9|CH438||CH1|LQFP-44_L10.0-W10.0-P0.80-LS12.0-BL|CH438|1
+10|CH340C|USB|CH2|SOIC-16_150mil|CH340G_[C14267]|1
+11|TYPE_C-14P||CN?|USB-C-SMD_KH-TYPE-C-16P|TYPE_C-14P|1
+12|1N4148|High Conductance Fast Diode|D1|DO-35|Diode 1N4148|1
+13|XH_4P||J1, J2, J3, J4, J5, J6, J7, J8, J9|XH_4P直插弯针|XH_4P|9
+14|USART1/USB_TTL|Header, 5-Pin, Dual row|P1|HDR2X5_CEN|Header 5X2A|1
+15|Header 4|Header, 4-Pin|P2, P3, P4, P5, P6, P7, P8, P9|HDR1X4|Header 4|8
+16|蓝灯 0603|发光二极管|PWR1|0603_LED_S1|0603 蓝灯|1
+17|SS8050|三极管|Q1|SOT-23(SOT-23-3)|SOT-23 SS8050 Y1|1
+18|SS8550|三极管|Q2|SOT-23(SOT-23-3)|SOT-23 SS8550 Y2|1
+19|10KΩ|贴片电阻|R1, R3, R6, R7, R8|0603_R|0603 10KΩ (1002) 1%|5
+20|1MΩ|贴片电阻|R2|0603_R|0603 1MΩ (1004) 1%|1
+21|0Ω|贴片电阻|R4|0603_R|0603 10KΩ (1002) 1%|1
+22|10KΩ (1002) ±1%|贴片电阻|R5|0603_R|0603 10KΩ (1002) 1%|1
+23|1KΩ|贴片电阻|R9, R10, R11|0603_R|0603 1KΩ (1001) 1%|3
+24|1KΩ (1001) ±1%|贴片电阻|R_PWR1|0603_R|0603 1KΩ (1001) 1%|1
+25|TS-1102SD-C-C-B||RESET1|SW-SMD_4P-L6.0-W6.0-P4.50-LS9.2|TS-1102SD-C-C-B|1
+26|MAX232D||U1, U2, U3, U4, U5, U6, U7, U8|SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL|MAX232D|8
+27|MICROXNJ||USB1|MICRO-USB-SMD_MICROXNJ|MICROXNJ|1
+28|8MHz|贴片晶振|Y1|SMD-3225_4P|SMD-3225_4P  12MHZ 20PF 10PPM|1
+29|32.768KHz|贴片晶振|Y2|SMD-3215_2P FC - 135|SMD-3215_2P 32.768KHz 20ppm 12.5pF|1
+30|22.1184MHz|贴片晶振|Y3|SMD-3225_4P|SMD-3225_4P  12MHZ 20PF 10PPM|1

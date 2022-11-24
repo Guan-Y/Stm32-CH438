@@ -1,0 +1,249 @@
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=RXD0_232 Pin=J2-2
+Removed Pin From Net: NetName=TXD0_232 Pin=J2-3
+Removed Pin From Net: NetName=5V Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=RXD1_232 Pin=J3-2
+Removed Pin From Net: NetName=TXD1_232 Pin=J3-3
+Removed Pin From Net: NetName=5V Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J4-1
+Removed Pin From Net: NetName=RXD2_232 Pin=J4-2
+Removed Pin From Net: NetName=TXD2_232 Pin=J4-3
+Removed Pin From Net: NetName=5V Pin=J4-4
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Pin From Net: NetName=RXD3_232 Pin=J5-2
+Removed Pin From Net: NetName=TXD3_232 Pin=J5-3
+Removed Pin From Net: NetName=5V Pin=J5-4
+Removed Pin From Net: NetName=GND Pin=J6-1
+Removed Pin From Net: NetName=TXD4_232 Pin=J6-2
+Removed Pin From Net: NetName=RXD4_232 Pin=J6-3
+Removed Pin From Net: NetName=5V Pin=J6-4
+Removed Pin From Net: NetName=GND Pin=J7-1
+Removed Pin From Net: NetName=TXD5_232 Pin=J7-2
+Removed Pin From Net: NetName=RXD5_232 Pin=J7-3
+Removed Pin From Net: NetName=5V Pin=J7-4
+Removed Pin From Net: NetName=GND Pin=J8-1
+Removed Pin From Net: NetName=TXD6_232 Pin=J8-2
+Removed Pin From Net: NetName=RXD6_232 Pin=J8-3
+Removed Pin From Net: NetName=5V Pin=J8-4
+Removed Pin From Net: NetName=GND Pin=J9-1
+Removed Pin From Net: NetName=TXD7_232 Pin=J9-2
+Removed Pin From Net: NetName=RXD7_232 Pin=J9-3
+Removed Pin From Net: NetName=5V Pin=J9-4
+Removed Member From Class: ClassName=MAX232&输出 Member=J2
+Removed Member From Class: ClassName=MAX232&输出 Member=J3
+Removed Member From Class: ClassName=MAX232&输出 Member=J4
+Removed Member From Class: ClassName=MAX232&输出 Member=J5
+Removed Member From Class: ClassName=MAX232&输出 Member=J6
+Removed Member From Class: ClassName=MAX232&输出 Member=J7
+Removed Member From Class: ClassName=MAX232&输出 Member=J9
+Added Component: Designator=DSUB1(DSUB-TH_DMR-9P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "D-Sub"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20171123/C141880_15114109678101137623.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "公"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "D-Sub 公 P数:9 DMR叉锁 半金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ckmtw(灿科盟)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "弯插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-50℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C141880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DMR-9P"; VariantName = "[No Variations]"
+Added Component: Designator=DSUB2(DSUB-TH_DMR-9P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "D-Sub"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20171123/C141880_15114109678101137623.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "公"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "D-Sub 公 P数:9 DMR叉锁 半金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ckmtw(灿科盟)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "弯插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-50℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C141880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DMR-9P"; VariantName = "[No Variations]"
+Added Component: Designator=DSUB3(DSUB-TH_DMR-9P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "D-Sub"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20171123/C141880_15114109678101137623.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "公"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "D-Sub 公 P数:9 DMR叉锁 半金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ckmtw(灿科盟)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "弯插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-50℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C141880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DMR-9P"; VariantName = "[No Variations]"
+Added Component: Designator=DSUB4(DSUB-TH_DMR-9P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "D-Sub"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20171123/C141880_15114109678101137623.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "公"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "D-Sub 公 P数:9 DMR叉锁 半金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ckmtw(灿科盟)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "弯插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-50℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C141880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DMR-9P"; VariantName = "[No Variations]"
+Added Component: Designator=DSUB5(DSUB-TH_DMR-9P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "D-Sub"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20171123/C141880_15114109678101137623.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "公"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "D-Sub 公 P数:9 DMR叉锁 半金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ckmtw(灿科盟)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "弯插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-50℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C141880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DMR-9P"; VariantName = "[No Variations]"
+Added Component: Designator=DSUB6(DSUB-TH_DMR-9P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "D-Sub"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20171123/C141880_15114109678101137623.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "公"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "D-Sub 公 P数:9 DMR叉锁 半金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ckmtw(灿科盟)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "弯插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-50℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C141880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DMR-9P"; VariantName = "[No Variations]"
+Added Component: Designator=DSUB7(DSUB-TH_DMR-9P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "D-Sub"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20171123/C141880_15114109678101137623.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "公"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "D-Sub 公 P数:9 DMR叉锁 半金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ckmtw(灿科盟)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "弯插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-50℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C141880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DMR-9P"; VariantName = "[No Variations]"
+Added Component: Designator=DSUB8(DSUB-TH_DMR-9P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "D-Sub"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20171123/C141880_15114109678101137623.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "公"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "D-Sub 公 P数:9 DMR叉锁 半金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ckmtw(灿科盟)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "弯插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "D-DMR009PM-D002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-50℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C141880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DMR-9P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RXD0_232 Pin=DSUB1-2
+Added Pin To Net: NetName=TXD0_232 Pin=DSUB1-3
+Added Pin To Net: NetName=GND Pin=DSUB1-5
+Added Pin To Net: NetName=RXD1_232 Pin=DSUB2-2
+Added Pin To Net: NetName=TXD1_232 Pin=DSUB2-3
+Added Pin To Net: NetName=GND Pin=DSUB2-5
+Added Pin To Net: NetName=RXD2_232 Pin=DSUB3-2
+Added Pin To Net: NetName=TXD2_232 Pin=DSUB3-3
+Added Pin To Net: NetName=GND Pin=DSUB3-5
+Added Pin To Net: NetName=RXD3_232 Pin=DSUB4-2
+Added Pin To Net: NetName=TXD3_232 Pin=DSUB4-3
+Added Pin To Net: NetName=GND Pin=DSUB4-5
+Added Pin To Net: NetName=RXD4_232 Pin=DSUB5-2
+Added Pin To Net: NetName=TXD4_232 Pin=DSUB5-3
+Added Pin To Net: NetName=GND Pin=DSUB5-5
+Added Pin To Net: NetName=RXD5_232 Pin=DSUB6-2
+Added Pin To Net: NetName=TXD5_232 Pin=DSUB6-3
+Added Pin To Net: NetName=GND Pin=DSUB6-5
+Added Pin To Net: NetName=RXD6_232 Pin=DSUB7-2
+Added Pin To Net: NetName=TXD6_232 Pin=DSUB7-3
+Added Pin To Net: NetName=GND Pin=DSUB7-5
+Added Pin To Net: NetName=RXD7_232 Pin=DSUB8-2
+Added Pin To Net: NetName=TXD7_232 Pin=DSUB8-3
+Added Pin To Net: NetName=GND Pin=DSUB8-5
+Added Member To Class: ClassName=ch438-MCU Member=Component CH1 CH438
+Added Member To Class: ClassName=MAX232&输出 Member=Component DSUB1 D-DMR009PM-D002
+Added Member To Class: ClassName=MAX232&输出 Member=Component DSUB2 D-DMR009PM-D002
+Added Member To Class: ClassName=MAX232&输出 Member=Component DSUB3 D-DMR009PM-D002
+Added Member To Class: ClassName=MAX232&输出 Member=Component DSUB4 D-DMR009PM-D002
+Added Member To Class: ClassName=MAX232&输出 Member=Component DSUB5 D-DMR009PM-D002
+Added Member To Class: ClassName=MAX232&输出 Member=Component DSUB6 D-DMR009PM-D002
+Added Member To Class: ClassName=MAX232&输出 Member=Component DSUB7 D-DMR009PM-D002
+Added Member To Class: ClassName=MAX232&输出 Member=Component DSUB8 D-DMR009PM-D002
+Added Member To Class: ClassName=MAX232&输出 Member=Component P4 Header 4

@@ -1,0 +1,63 @@
+Removed Member From Class: ClassName=MAX232&输出 Member=C19
+Removed Member From Class: ClassName=MAX232&输出 Member=C62
+Removed Member From Class: ClassName=MAX232&输出 Member=C63
+Removed Member From Class: ClassName=MAX232&输出 Member=C64
+Removed Member From Class: ClassName=MAX232&输出 Member=C65
+Removed Member From Class: ClassName=MAX232&输出 Member=C66
+Removed Member From Class: ClassName=MAX232&输出 Member=C67
+Removed Member From Class: ClassName=MAX232&输出 Member=C68
+Removed Member From Class: ClassName=MAX232&输出 Member=C69
+Removed Member From Class: ClassName=MAX232&输出 Member=C70
+Removed Member From Class: ClassName=MAX232&输出 Member=C71
+Removed Member From Class: ClassName=MAX232&输出 Member=C72
+Removed Member From Class: ClassName=MAX232&输出 Member=C73
+Removed Member From Class: ClassName=MAX232&输出 Member=C74
+Removed Member From Class: ClassName=MAX232&输出 Member=C75
+Removed Member From Class: ClassName=MAX232&输出 Member=C76
+Removed Member From Class: ClassName=MAX232&输出 Member=C77
+Removed Member From Class: ClassName=MAX232&输出 Member=C78
+Removed Member From Class: ClassName=MAX232&输出 Member=C79
+Removed Member From Class: ClassName=MAX232&输出 Member=C80
+Removed Member From Class: ClassName=MAX232&输出 Member=C81
+Removed Member From Class: ClassName=MAX232&输出 Member=C82
+Removed Member From Class: ClassName=MAX232&输出 Member=C83
+Removed Member From Class: ClassName=MAX232&输出 Member=C84
+Added Pin To Net: NetName=WR# Pin=U1-18
+Added Pin To Net: NetName=RD# Pin=U1-19
+Added Pin To Net: NetName=D2 Pin=U1-21
+Added Pin To Net: NetName=D3 Pin=U1-22
+Added Pin To Net: NetName=D4 Pin=U1-25
+Added Pin To Net: NetName=D5 Pin=U1-26
+Added Pin To Net: NetName=D6 Pin=U1-27
+Added Pin To Net: NetName=D7 Pin=U1-28
+Added Pin To Net: NetName=INT Pin=U1-40
+Added Pin To Net: NetName=CS# Pin=U1-41
+Added Pin To Net: NetName=A6/ALE Pin=U1-42
+Added Pin To Net: NetName=D0 Pin=U1-45
+Added Pin To Net: NetName=D1 Pin=U1-46
+Added Member To Class: ClassName=MAX232&输出 Member=Component C21 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C22 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C24 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C38 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C39 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C40 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C41 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C42 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C43 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C44 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C45 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C46 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C47 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C48 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C49 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C50 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C51 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C52 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C53 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C54 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C55 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C56 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C57 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C58 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C59 104
+Added Member To Class: ClassName=MAX232&输出 Member=Component C60 104

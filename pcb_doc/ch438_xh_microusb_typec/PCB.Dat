@@ -1,0 +1,32 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_CH438.PrjPCB|ReportField=ProjectFullPath~E:\AD\ch438\PCB_CH438.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [PCB.PcbDoc]|ReportField=ReportTime~22:32:52|ReportField=ReportDate~2022/1/24|ReportField=ReportDateTime~2022/1/24 22:32:52|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~129|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=DataSourceFileName~PCB.PcbDoc|ReportField=DataSourceFullPath~E:\AD\ch438\PCB.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|CJA1117B-3v3||3V3|SOT-89_L4.5-W2.5-P1.50-LS4.2-BR|CJA1117B-ADJ|1
+2|104|贴片电容|C1, C13, C17, C19, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55, C56, C57, C58, C59, C60, C85, C86, C87|0603_C|0603 100nF (104) 10% 50V, 0603 1uF (105) 10% 50V|47
+3|100pF|Capacitor (Semiconductor SIM Model)|C2, C3|1608[0603]|Cap Semi|2
+4|10pF|贴片电容|C4, C5|0603_C|0603 10pF (100) 5% 50V|2
+5|18pF|贴片电容|C6, C7|0603_C|0603 22pF (220) 5% 50V|2
+6|0.1uF|Capacitor (Semiconductor SIM Model)|C8, C9, C10, C11|1608[0603]|Cap Semi|4
+7|STM32F103C8T6|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 48-pin LQFP, Industrial Temperature|C8T6|LQFP48_N|STM32F103C8T6|1
+8|10uF|贴片电容|C12, C16, C88|0603_C|0603 10uF (106) 10% 10V, 0603 1uF (105) 10% 50V|3
+9|22uF|Capacitor (Semiconductor SIM Model)|C14, C18|1608[0603]|Cap Semi|2
+10|104|Capacitor (Semiconductor SIM Model)|C15, C20|1608[0603]|Cap Semi|2
+11|1uF|贴片电容|C69, C70, C71, C72, C73, C74, C75, C76, C77, C78, C79, C80, C81, C82, C83, C84|0603_C|0603 1uF (105) 10% 50V|16
+12|CH340C|USB|CH340|SOIC-16_150mil|CH340G_[C14267]|1
+13|CH438||CH438|LQFP-44_L10.0-W10.0-P0.80-LS12.0-BL|CH438|1
+14|Header 4H|Header, 4-Pin, Right Angle|COM0, COM1, COM2, COM3, COM4, COM5, COM6, COM7|HDR1X4H|Header 4H|8
+15|1N4148|High Conductance Fast Diode|D1|DO-35|Diode 1N4148|1
+16|USART1/USB_TTL|Header, 5-Pin, Dual row|P1|HDR2X5_CEN|Header 5X2A|1
+17|SWD|Header, 4-Pin, Right Angle|P2|HDR1X4H|Header 4H|1
+18|Header 4|Header, 4-Pin|P4, P5, P6, P7, P8, P9, P10, P11|HDR1X4|Header 4|8
+19|SS8050|三极管|Q1|SOT-23(SOT-23-3)|SOT-23 SS8050 Y1|1
+20|SS8550|三极管|Q2|SOT-23(SOT-23-3)|SOT-23 SS8550 Y2|1
+21|10KΩ|贴片电阻|R1, R4, R5, R6, R7|0603_R|0603 10KΩ (1002) 1%|5
+22|1MΩ|贴片电阻|R2|0603_R|0603 1MΩ (1004) 1%|1
+23|10k|Resistor|R3|J1-0603|Res3|1
+24|1KΩ|贴片电阻|R8, R9, R10|0603_R|0603 1KΩ (1001) 1%|3
+25|1K|Resistor|Ry|J1-0603|Res3|1
+26|TS-1102SD-C-C-B||SW1|SW-SMD_4P-L6.0-W6.0-P4.50-LS9.2|TS-1102SD-C-C-B|1
+27|MAX232D||U5, U6, U7, U8, U9, U10, U11, U12|SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL|MAX232D|8
+28|MICROXNJ||USB1|MICRO-USB-SMD_MICROXNJ|MICROXNJ|1
+29|32.768KHz|贴片晶振|Y1|SMD-3215_2P FC - 135|SMD-3215_2P 32.768KHz 20ppm 12.5pF|1
+30|8MHz|贴片晶振|Y2|SMD-3225_4P|SMD-3225_4P  12MHZ 20PF 10PPM|1
+31|22.1184MHz|贴片晶振|Y3|SMD-3225_4P|SMD-3225_4P  12MHZ 20PF 10PPM|1

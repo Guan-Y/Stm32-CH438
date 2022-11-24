@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=TXD0_232 Pin=COM0-3
+Added Pin To Net: NetName=TXD1_232 Pin=COM1-3
+Added Pin To Net: NetName=TXD2_232 Pin=COM2-3
+Added Pin To Net: NetName=TXD3_232 Pin=COM3-3
+Added Pin To Net: NetName=RXD4_232 Pin=COM4-3
+Added Pin To Net: NetName=RXD5_232 Pin=COM5-3
+Added Pin To Net: NetName=RXD6_232 Pin=COM6-3
+Added Pin To Net: NetName=RXD7_232 Pin=COM7-3
